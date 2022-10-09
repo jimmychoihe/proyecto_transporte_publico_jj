@@ -33,7 +33,7 @@ class _UserInfoLogoutState extends State<UserInfoLogout> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            'Signed In as',
+            'Ingresado como: ',
             style: TextStyle(fontSize: 16),
           ),
           const SizedBox(height: 8),
