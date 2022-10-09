@@ -33,7 +33,7 @@ class _UserInfoLogoutState extends State<UserInfoLogout> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            'Ingresado como: ',
+            'Ingresado como: El Webo',
             style: TextStyle(fontSize: 16),
           ),
           const SizedBox(height: 8),
