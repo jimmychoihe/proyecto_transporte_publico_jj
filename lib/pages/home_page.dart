@@ -16,6 +16,7 @@ class HomePage extends StatelessWidget {
   }
 }
 
+//Puto
 class UserInfoLogout extends StatefulWidget {
   const UserInfoLogout({super.key});
 
